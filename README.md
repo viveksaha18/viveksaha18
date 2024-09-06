@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend in C+ and DSA with C++**
+- 🌱 I’m currently learning **Backend  and DSA with C++**
 
 - 💬 Ask me about **C++,C,HTML,CSS,JAVA**
 
