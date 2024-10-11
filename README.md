@@ -1,14 +1,14 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi 👋, I'm Vivek Saha</h1>
-<h3 align="center">Developer From India</h3>
+<h3 align="center"> My name is Vivek .A Second-year B.Tech student passionate about coding and problem-solving. Enthusiast in data structures, algorithms, and competitive programming. Actively sharpening skills on LeetCode, aiming to contribute to open-source projects and crack coding interviews. Currently learning advanced algorithms and exploring new technologies to build a strong foundation for software development."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksaha18&label=Profile%20views&color=0e75b6&style=flat" alt="viveksaha18" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend  and DSA with C++**
+- 🌱 I’m currently learning **DSA with C++**
 
 - 💬 Ask me about **C++,C,HTML,CSS,JAVA**
 
